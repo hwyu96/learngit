@@ -4,3 +4,4 @@ Git is free software.
 2
 3
 zzz
+Git has a mutable index called stage.
