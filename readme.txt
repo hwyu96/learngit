@@ -6,3 +6,4 @@ Git is free software.
 zzz
 Git has a mutable index called stage.
 a
+ÐÞ¸Ä1
