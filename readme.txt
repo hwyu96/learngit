@@ -1,8 +1,6 @@
 Git is a version control system.
 Git is free software.
-zzz
-Git has a mutable index called stage.
-a
-�޸�1
-ewewew
-bb bbb
+
+创建标签 - 廖雪峰的官方网站
+
+1
